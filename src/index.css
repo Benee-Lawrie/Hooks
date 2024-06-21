@@ -1,0 +1,26 @@
+.container{
+    background-color: purple;
+    padding: 20px 20px;
+    border: 2px solid palevioletred;
+    border-radius: 20px;
+    
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 10px;
+    justify-content: center;
+    text-align: center;
+}
+  
+.name {
+    font-size: 20px;
+    color: purple;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: 600;
+    background-color: white;
+}
+  
+  
